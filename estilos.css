@@ -82,7 +82,7 @@ li a:hover{color: #563F2E}
 .texto{
 	width: 300px;
 	padding-left: 100px;
-	padding-top: 45px;
+	padding-top: 40px;
 }
 #banner1 h1{
 	font-size: 4em;
@@ -93,6 +93,7 @@ li a:hover{color: #563F2E}
 #banner1 p{
 	font-weight: bold;
 	color: #282827;
+	font-size: 14px;
 }
 /*CATEGORIAS*/
 #categorias{
@@ -497,6 +498,7 @@ textarea{
 	text-align: center;
 	font-family: helvetica;
 	padding: 10px;
+	resize: none;
 }
 input[type="submit"]{
 	border: none;
@@ -756,7 +758,7 @@ input[type="text"]{
 }
 #cajasin input[type="submit"]:hover,#cajasre button:hover {
 	background-color: black;
-	cursor: pointer;i
+	cursor: pointer;
 }
 /*REGISTRO*/
 #cajasre {
